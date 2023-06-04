@@ -1,9 +1,15 @@
 <?php return array(
     'root' => array(
         'name' => '__root__',
+<<<<<<< HEAD
         'pretty_version' => 'dev-main',
         'version' => 'dev-main',
         'reference' => '5234e4c3a5f9451ec1fb3d8d8d4fec39ccbd5a9f',
+=======
+        'pretty_version' => '1.0.0+no-version-set',
+        'version' => '1.0.0.0',
+        'reference' => NULL,
+>>>>>>> 5234e4c3a5f9451ec1fb3d8d8d4fec39ccbd5a9f
         'type' => 'library',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
@@ -11,9 +17,15 @@
     ),
     'versions' => array(
         '__root__' => array(
+<<<<<<< HEAD
             'pretty_version' => 'dev-main',
             'version' => 'dev-main',
             'reference' => '5234e4c3a5f9451ec1fb3d8d8d4fec39ccbd5a9f',
+=======
+            'pretty_version' => '1.0.0+no-version-set',
+            'version' => '1.0.0.0',
+            'reference' => NULL,
+>>>>>>> 5234e4c3a5f9451ec1fb3d8d8d4fec39ccbd5a9f
             'type' => 'library',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
@@ -28,6 +40,7 @@
             'aliases' => array(),
             'dev_requirement' => false,
         ),
+<<<<<<< HEAD
         'firebase/php-jwt' => array(
             'pretty_version' => 'v5.5.1',
             'version' => '5.5.1.0',
@@ -46,6 +59,8 @@
             'aliases' => array(),
             'dev_requirement' => false,
         ),
+=======
+>>>>>>> 5234e4c3a5f9451ec1fb3d8d8d4fec39ccbd5a9f
         'nikic/fast-route' => array(
             'pretty_version' => 'v1.3.0',
             'version' => '1.3.0.0',
@@ -55,6 +70,7 @@
             'aliases' => array(),
             'dev_requirement' => false,
         ),
+<<<<<<< HEAD
         'php-di/invoker' => array(
             'pretty_version' => '2.3.3',
             'version' => '2.3.3.0',
@@ -73,6 +89,8 @@
             'aliases' => array(),
             'dev_requirement' => false,
         ),
+=======
+>>>>>>> 5234e4c3a5f9451ec1fb3d8d8d4fec39ccbd5a9f
         'psr/container' => array(
             'pretty_version' => '2.0.2',
             'version' => '2.0.2.0',
@@ -82,12 +100,15 @@
             'aliases' => array(),
             'dev_requirement' => false,
         ),
+<<<<<<< HEAD
         'psr/container-implementation' => array(
             'dev_requirement' => false,
             'provided' => array(
                 0 => '^1.0',
             ),
         ),
+=======
+>>>>>>> 5234e4c3a5f9451ec1fb3d8d8d4fec39ccbd5a9f
         'psr/http-factory' => array(
             'pretty_version' => '1.0.2',
             'version' => '1.0.2.0',
@@ -101,7 +122,10 @@
             'dev_requirement' => false,
             'provided' => array(
                 0 => '1.0',
+<<<<<<< HEAD
                 1 => '^1.0',
+=======
+>>>>>>> 5234e4c3a5f9451ec1fb3d8d8d4fec39ccbd5a9f
             ),
         ),
         'psr/http-message' => array(
@@ -182,6 +206,7 @@
             'aliases' => array(),
             'dev_requirement' => false,
         ),
+<<<<<<< HEAD
         'tuupola/callable-handler' => array(
             'pretty_version' => '1.1.0',
             'version' => '1.1.0.0',
@@ -209,5 +234,7 @@
             'aliases' => array(),
             'dev_requirement' => false,
         ),
+=======
+>>>>>>> 5234e4c3a5f9451ec1fb3d8d8d4fec39ccbd5a9f
     ),
 );

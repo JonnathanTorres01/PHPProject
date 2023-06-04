@@ -10,6 +10,7 @@ class ComposerStaticInita16b39c70469f82d390ad6148d92f0c4
         '253c157292f75eb38082b5acb06f3f01' => __DIR__ . '/..' . '/nikic/fast-route/src/functions.php',
         '7b11c4dc42b3b3023073cb14e519683c' => __DIR__ . '/..' . '/ralouphie/getallheaders/src/getallheaders.php',
         'a4a119a56e50fbb293281d9a48007e0e' => __DIR__ . '/..' . '/symfony/polyfill-php80/bootstrap.php',
+<<<<<<< HEAD
         'b33e3d135e5d9e47d845c576147bda89' => __DIR__ . '/..' . '/php-di/php-di/src/functions.php',
     );
 
@@ -19,6 +20,11 @@ class ComposerStaticInita16b39c70469f82d390ad6148d92f0c4
             'Tuupola\\Middleware\\' => 19,
             'Tuupola\\Http\\Factory\\' => 21,
         ),
+=======
+    );
+
+    public static $prefixLengthsPsr4 = array (
+>>>>>>> 5234e4c3a5f9451ec1fb3d8d8d4fec39ccbd5a9f
         'S' => 
         array (
             'Symfony\\Polyfill\\Php80\\' => 23,
@@ -32,6 +38,7 @@ class ComposerStaticInita16b39c70469f82d390ad6148d92f0c4
             'Psr\\Http\\Message\\' => 17,
             'Psr\\Container\\' => 14,
         ),
+<<<<<<< HEAD
         'L' => 
         array (
             'Laravel\\SerializableClosure\\' => 28,
@@ -66,6 +73,16 @@ class ComposerStaticInita16b39c70469f82d390ad6148d92f0c4
         array (
             0 => __DIR__ . '/..' . '/tuupola/http-factory/src',
         ),
+=======
+        'F' => 
+        array (
+            'Fig\\Http\\Message\\' => 17,
+            'FastRoute\\' => 10,
+        ),
+    );
+
+    public static $prefixDirsPsr4 = array (
+>>>>>>> 5234e4c3a5f9451ec1fb3d8d8d4fec39ccbd5a9f
         'Symfony\\Polyfill\\Php80\\' => 
         array (
             0 => __DIR__ . '/..' . '/symfony/polyfill-php80',
@@ -96,6 +113,7 @@ class ComposerStaticInita16b39c70469f82d390ad6148d92f0c4
         array (
             0 => __DIR__ . '/..' . '/psr/container/src',
         ),
+<<<<<<< HEAD
         'Laravel\\SerializableClosure\\' => 
         array (
             0 => __DIR__ . '/..' . '/laravel/serializable-closure/src',
@@ -108,6 +126,8 @@ class ComposerStaticInita16b39c70469f82d390ad6148d92f0c4
         array (
             0 => __DIR__ . '/..' . '/firebase/php-jwt/src',
         ),
+=======
+>>>>>>> 5234e4c3a5f9451ec1fb3d8d8d4fec39ccbd5a9f
         'Fig\\Http\\Message\\' => 
         array (
             0 => __DIR__ . '/..' . '/fig/http-message-util/src',
@@ -116,6 +136,7 @@ class ComposerStaticInita16b39c70469f82d390ad6148d92f0c4
         array (
             0 => __DIR__ . '/..' . '/nikic/fast-route/src',
         ),
+<<<<<<< HEAD
         'DI\\' => 
         array (
             0 => __DIR__ . '/..' . '/php-di/php-di/src',
@@ -124,6 +145,8 @@ class ComposerStaticInita16b39c70469f82d390ad6148d92f0c4
         array (
             0 => __DIR__ . '/../..' . '/src',
         ),
+=======
+>>>>>>> 5234e4c3a5f9451ec1fb3d8d8d4fec39ccbd5a9f
     );
 
     public static $classMap = array (

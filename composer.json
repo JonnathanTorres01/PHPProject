@@ -1,6 +1,7 @@
 {
     "require": {
         "slim/slim": "4.*",
+<<<<<<< HEAD
         "slim/psr7": "^1.6",
         "php-di/php-di": "^7.0",
         "tuupola/slim-jwt-auth": "^3.7"
@@ -10,4 +11,8 @@
           "App\\" : "src/"
         }
       }
+=======
+        "slim/psr7": "^1.6"
+    }
+>>>>>>> 5234e4c3a5f9451ec1fb3d8d8d4fec39ccbd5a9f
 }

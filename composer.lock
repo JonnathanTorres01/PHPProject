@@ -4,7 +4,11 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
+<<<<<<< HEAD
     "content-hash": "832ee8d94d970956534eff293934c424",
+=======
+    "content-hash": "3330638b65a325a8387769d50108b43a",
+>>>>>>> 5234e4c3a5f9451ec1fb3d8d8d4fec39ccbd5a9f
     "packages": [
         {
             "name": "fig/http-message-util",
@@ -63,6 +67,7 @@
             "time": "2020-11-24T22:02:12+00:00"
         },
         {
+<<<<<<< HEAD
             "name": "firebase/php-jwt",
             "version": "v5.5.1",
             "source": {
@@ -180,6 +185,8 @@
             "time": "2023-01-30T18:31:20+00:00"
         },
         {
+=======
+>>>>>>> 5234e4c3a5f9451ec1fb3d8d8d4fec39ccbd5a9f
             "name": "nikic/fast-route",
             "version": "v1.3.0",
             "source": {
@@ -230,6 +237,7 @@
             "time": "2018-02-13T20:26:39+00:00"
         },
         {
+<<<<<<< HEAD
             "name": "php-di/invoker",
             "version": "2.3.3",
             "source": {
@@ -358,6 +366,8 @@
             "time": "2023-02-07T17:34:03+00:00"
         },
         {
+=======
+>>>>>>> 5234e4c3a5f9451ec1fb3d8d8d4fec39ccbd5a9f
             "name": "psr/container",
             "version": "2.0.2",
             "source": {
@@ -1004,6 +1014,7 @@
                 }
             ],
             "time": "2022-11-03T14:55:06+00:00"
+<<<<<<< HEAD
         },
         {
             "name": "tuupola/callable-handler",
@@ -1209,6 +1220,8 @@
                 }
             ],
             "time": "2022-12-23T11:23:05+00:00"
+=======
+>>>>>>> 5234e4c3a5f9451ec1fb3d8d8d4fec39ccbd5a9f
         }
     ],
     "packages-dev": [],

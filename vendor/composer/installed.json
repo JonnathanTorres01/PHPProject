@@ -60,6 +60,7 @@
             "install-path": "../fig/http-message-util"
         },
         {
+<<<<<<< HEAD
             "name": "firebase/php-jwt",
             "version": "v5.5.1",
             "version_normalized": "5.5.1.0",
@@ -183,6 +184,8 @@
             "install-path": "../laravel/serializable-closure"
         },
         {
+=======
+>>>>>>> 5234e4c3a5f9451ec1fb3d8d8d4fec39ccbd5a9f
             "name": "nikic/fast-route",
             "version": "v1.3.0",
             "version_normalized": "1.3.0.0",
@@ -236,6 +239,7 @@
             "install-path": "../nikic/fast-route"
         },
         {
+<<<<<<< HEAD
             "name": "php-di/invoker",
             "version": "2.3.3",
             "version_normalized": "2.3.3.0",
@@ -370,6 +374,8 @@
             "install-path": "../php-di/php-di"
         },
         {
+=======
+>>>>>>> 5234e4c3a5f9451ec1fb3d8d8d4fec39ccbd5a9f
             "name": "psr/container",
             "version": "2.0.2",
             "version_normalized": "2.0.2.0",
@@ -1046,6 +1052,7 @@
                 }
             ],
             "install-path": "../symfony/polyfill-php80"
+<<<<<<< HEAD
         },
         {
             "name": "tuupola/callable-handler",
@@ -1260,6 +1267,8 @@
                 }
             ],
             "install-path": "../tuupola/slim-jwt-auth"
+=======
+>>>>>>> 5234e4c3a5f9451ec1fb3d8d8d4fec39ccbd5a9f
         }
     ],
     "dev": true,

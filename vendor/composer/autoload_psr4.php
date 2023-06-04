@@ -6,8 +6,11 @@ $vendorDir = dirname(__DIR__);
 $baseDir = dirname($vendorDir);
 
 return array(
+<<<<<<< HEAD
     'Tuupola\\Middleware\\' => array($vendorDir . '/tuupola/callable-handler/src', $vendorDir . '/tuupola/slim-jwt-auth/src'),
     'Tuupola\\Http\\Factory\\' => array($vendorDir . '/tuupola/http-factory/src'),
+=======
+>>>>>>> 5234e4c3a5f9451ec1fb3d8d8d4fec39ccbd5a9f
     'Symfony\\Polyfill\\Php80\\' => array($vendorDir . '/symfony/polyfill-php80'),
     'Slim\\Psr7\\' => array($vendorDir . '/slim/psr7/src'),
     'Slim\\' => array($vendorDir . '/slim/slim/Slim'),
@@ -15,6 +18,7 @@ return array(
     'Psr\\Http\\Server\\' => array($vendorDir . '/psr/http-server-handler/src', $vendorDir . '/psr/http-server-middleware/src'),
     'Psr\\Http\\Message\\' => array($vendorDir . '/psr/http-factory/src', $vendorDir . '/psr/http-message/src'),
     'Psr\\Container\\' => array($vendorDir . '/psr/container/src'),
+<<<<<<< HEAD
     'Laravel\\SerializableClosure\\' => array($vendorDir . '/laravel/serializable-closure/src'),
     'Invoker\\' => array($vendorDir . '/php-di/invoker/src'),
     'Firebase\\JWT\\' => array($vendorDir . '/firebase/php-jwt/src'),
@@ -22,4 +26,8 @@ return array(
     'FastRoute\\' => array($vendorDir . '/nikic/fast-route/src'),
     'DI\\' => array($vendorDir . '/php-di/php-di/src'),
     'App\\' => array($baseDir . '/src'),
+=======
+    'Fig\\Http\\Message\\' => array($vendorDir . '/fig/http-message-util/src'),
+    'FastRoute\\' => array($vendorDir . '/nikic/fast-route/src'),
+>>>>>>> 5234e4c3a5f9451ec1fb3d8d8d4fec39ccbd5a9f
 );
